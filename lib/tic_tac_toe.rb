@@ -58,7 +58,8 @@ class TicTacToe
       move(stike, current_player)
       display_board
     else 
-      puts ""
+      puts "THAT SQUARE IS ALREADY TAKEN"
+      
     
   
   
