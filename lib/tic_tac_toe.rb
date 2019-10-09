@@ -51,7 +51,7 @@ class TicTacToe
   
   
   def turn 
-    puts "Choose "
+    puts "MAKE YOUR MARK"
     
   
   
