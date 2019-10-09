@@ -55,7 +55,7 @@ class TicTacToe
     attack = gets.strip
     strike = input_to_index(attack)
     if valid_move?(strike)
-      move(stike, current_player)
+      move(strike, current_player)
       display_board
     else 
       puts "THAT SQUARE IS ALREADY TAKEN"
