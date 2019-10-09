@@ -55,6 +55,7 @@ class TicTacToe
     attack = gets.strip
     strike = input_to_index(attack)
     if valid_move?(strike)
+      move
     
   
   
