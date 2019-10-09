@@ -61,7 +61,8 @@ class TicTacToe
       puts "THAT SQUARE IS ALREADY TAKEN"
       turn 
     end 
-    
+  end 
+  
     
   
   
