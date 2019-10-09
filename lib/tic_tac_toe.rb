@@ -65,7 +65,7 @@ class TicTacToe
   
   
   def won?
-    win
+    WIN_COMBINATIONS.find {
     
   
   
