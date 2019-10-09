@@ -73,6 +73,8 @@ class TicTacToe
      return ooo if ooo
      false
    end
+   
+   def full?
     
   
   
