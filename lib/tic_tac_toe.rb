@@ -10,5 +10,6 @@ class TicTacToe
     @board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   end 
   
-  
+  def display_board
+    
 end 
