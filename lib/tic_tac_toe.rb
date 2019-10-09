@@ -11,5 +11,5 @@ class TicTacToe
   end 
   
   def display_board
-    
+    puts ""
 end 
