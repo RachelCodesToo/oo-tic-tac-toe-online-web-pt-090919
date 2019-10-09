@@ -59,7 +59,9 @@ class TicTacToe
       display_board
     else 
       puts "THAT SQUARE IS ALREADY TAKEN"
-      
+      turn 
+    end 
+    
     
   
   
