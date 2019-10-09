@@ -88,7 +88,7 @@ class TicTacToe
    end 
    
    def winner
-     prev 
+     prev
    
     
   
