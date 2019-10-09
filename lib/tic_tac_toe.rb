@@ -65,7 +65,7 @@ class TicTacToe
   
   
   def won?
-    WIN_COMBINATIONS.find {|combo|
+    WIN_COMBINATIONS.find {|combo| combo.map 
     
   
   
