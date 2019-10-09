@@ -65,8 +65,7 @@ class TicTacToe
   
   
   def won?
-     def won?
-     exes = @board.map.with_index  { |position, index| index if position == "X" }
+      exes = @board.map.with_index  { |position, index| index if position == "X" }
       xxx = WIN_COMBINATIONS.find { |combo| (combo - exes).empty? }
      return xxx if xxx
       owes = @board.map.with_index { |position, index| index if position == "O" }
