@@ -78,6 +78,8 @@ class TicTacToe
      true if turn_count == 9
    end 
    
+   def draw?
+   
     
   
   
