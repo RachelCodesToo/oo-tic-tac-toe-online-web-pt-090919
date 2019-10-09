@@ -56,6 +56,8 @@ class TicTacToe
     strike = input_to_index(attack)
     if valid_move?(strike)
       move(stike, current_player)
+      display_board
+    else 
       
     
   
