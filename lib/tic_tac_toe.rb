@@ -53,7 +53,8 @@ class TicTacToe
   def turn 
     puts "MAKE YOUR MARK"
     attack = gets.strip
-    strike = input_to_index
+    strike = input_to_index(attack)
+    
     
   
   
