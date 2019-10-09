@@ -54,7 +54,7 @@ class TicTacToe
     puts "MAKE YOUR MARK"
     attack = gets.strip
     strike = input_to_index(attack)
-    
+    if va
     
   
   
