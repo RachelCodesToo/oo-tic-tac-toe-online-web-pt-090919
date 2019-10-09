@@ -12,5 +12,5 @@ class TicTacToe
   
   def display_board
     puts "-----------"
-    puts "#{@board[0]"
+    puts "#{@board[0]}"
 end 
