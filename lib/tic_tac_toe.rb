@@ -35,5 +35,7 @@ class TicTacToe
     not position_taken?(position)
   end 
   
+  def turn_count(position)
+    
   
 end 
