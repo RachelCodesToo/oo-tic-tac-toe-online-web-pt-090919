@@ -26,6 +26,6 @@ class TicTacToe
   end 
   
   def position_taken?(position)
-    return false if  
+    return false if  @board(position)
   
 end 
