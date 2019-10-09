@@ -52,7 +52,7 @@ class TicTacToe
   
   def turn 
     puts "MAKE YOUR MARK"
-    attack
+    attack = gets.strip
     
   
   
