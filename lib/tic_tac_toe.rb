@@ -83,7 +83,8 @@ class TicTacToe
    end 
    
    
-   def over 
+   def over?
+     true if 
    
     
   
