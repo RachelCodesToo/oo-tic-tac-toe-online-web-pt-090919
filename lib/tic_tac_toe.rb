@@ -79,7 +79,7 @@ class TicTacToe
    end 
    
    def draw?
-     return true if 
+     return true if full?
    
     
   
