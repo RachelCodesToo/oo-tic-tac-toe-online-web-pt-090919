@@ -31,6 +31,7 @@ class TicTacToe
   end 
   
   def valid_move?(position)
-    return false unless (0..8).include?
+    return false unless (0..8).include?(position)
+    
   
 end 
