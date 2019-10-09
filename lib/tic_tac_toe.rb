@@ -89,7 +89,7 @@ class TicTacToe
    
    def winner
      previous_player if won?
-     
+   end 
    
     
   
