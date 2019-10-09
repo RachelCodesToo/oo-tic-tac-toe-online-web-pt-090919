@@ -38,5 +38,8 @@ class TicTacToe
   def turn_count
     turn = 0 
     @board.each {|position| turn += 1 unless position == " "}
+    turn
+  end 
+  
   
 end 
