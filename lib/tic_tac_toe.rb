@@ -54,6 +54,7 @@ class TicTacToe
     puts "MAKE YOUR MARK"
     attack = gets.strip
     
+    
   
   
 end 
