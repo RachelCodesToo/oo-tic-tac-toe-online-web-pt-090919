@@ -65,6 +65,7 @@ class TicTacToe
   
   
   def won?
+    win
     
   
   
