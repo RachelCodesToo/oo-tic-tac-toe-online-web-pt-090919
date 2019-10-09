@@ -75,7 +75,7 @@ class TicTacToe
    end
    
    def full?
-     true
+     true if count == 9
     
   
   
