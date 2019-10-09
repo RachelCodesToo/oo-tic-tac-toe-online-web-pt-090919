@@ -49,6 +49,8 @@ class TicTacToe
     end 
   end 
   
+  def previous_player
+  
   
   def turn 
     puts "MAKE YOUR MARK"
