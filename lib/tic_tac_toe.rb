@@ -42,7 +42,7 @@ class TicTacToe
   end 
   
   def current_player 
-    if 
+    if turn_count%2
   
   
 end 
