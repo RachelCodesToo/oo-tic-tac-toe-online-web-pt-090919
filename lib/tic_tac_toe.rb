@@ -50,6 +50,12 @@ class TicTacToe
   end 
   
   def previous_player
+    if turn_count%2 == 0 
+      "O"
+    else
+      "X"
+    end 
+  end 
   
   
   def turn 
